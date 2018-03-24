@@ -1,0 +1,11 @@
+D:\Projects\C# Projects\Problem5.CharacterStats\bin\Debug\netcoreapp2.0\Problem5.CharacterStats.deps.json
+D:\Projects\C# Projects\Problem5.CharacterStats\bin\Debug\netcoreapp2.0\Problem5.CharacterStats.runtimeconfig.json
+D:\Projects\C# Projects\Problem5.CharacterStats\bin\Debug\netcoreapp2.0\Problem5.CharacterStats.runtimeconfig.dev.json
+D:\Projects\C# Projects\Problem5.CharacterStats\bin\Debug\netcoreapp2.0\Problem5.CharacterStats.dll
+D:\Projects\C# Projects\Problem5.CharacterStats\bin\Debug\netcoreapp2.0\Problem5.CharacterStats.pdb
+D:\Projects\C# Projects\Problem5.CharacterStats\obj\Debug\netcoreapp2.0\Problem5.CharacterStats.csprojResolveAssemblyReference.cache
+D:\Projects\C# Projects\Problem5.CharacterStats\obj\Debug\netcoreapp2.0\Problem5.CharacterStats.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\Problem5.CharacterStats\obj\Debug\netcoreapp2.0\Problem5.CharacterStats.AssemblyInfoInputs.cache
+D:\Projects\C# Projects\Problem5.CharacterStats\obj\Debug\netcoreapp2.0\Problem5.CharacterStats.AssemblyInfo.cs
+D:\Projects\C# Projects\Problem5.CharacterStats\obj\Debug\netcoreapp2.0\Problem5.CharacterStats.dll
+D:\Projects\C# Projects\Problem5.CharacterStats\obj\Debug\netcoreapp2.0\Problem5.CharacterStats.pdb
